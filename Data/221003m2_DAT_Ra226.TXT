@@ -1,41 +1,0 @@
-START METING
-CPS, 0, CPM, 26, uSv/hr, 0.14, SLOWt =7321
-CPS, 0, CPM, 26, uSv/hr, 0CPS, 1, CPM, 28, uSv/hr, 0.15, SLOWt =7716
-CPS, 1, CPM, 28, uSv/hr, 0.15, SLOWM, 28, uSv/hr, 0.15, SLOWt =8715
-CPS, 0, CPM, 28, uSv/hr, 0.15, SLOWM, 28, uSv/hr, 0.15, SLOWt =9713
-CPS, 1, CPM, 28, uSv/hr, 0.15, SLOWM, 28, uSv/hr, 0.15, SLOWt =10712
-CPS, 1, CPM, 29, uSv/hr, 0.16, SLOWM, 28, uSv/hr, 0.15, SLOWt =11710
-CPS, 0, CPM, 29, uSv/hr, 0.16, SLOWM, 28, uSv/hr, 0.15, SLOWt =12708
-CPS, 0, CPM, 28, uSv/hr, 0.15, SLOWM, 28, uSv/hr, 0.15, SLOWt =13707
-CPS, 0, CPM, 28, uSv/hr, 0.15, SLOWM, 28, uSv/hr, 0.15, SLOWt =14705
-CPS, 1, CPM, 29, uSv/hr, 0.16, SLOWM, 28, uSv/hr, 0.15, SLOWt =15704
-CPS, 0, CPM, 29, uSv/hr, 0.16, SLOWM, 28, uSv/hr, 0.15, SLOWt =16702
-CPS, 0, CPM, 29, uSv/hr, 0.16, SLOWM, 28, uSv/hr, 0.15, SLOWt =17699
-CPS, 0, CPM, 29, uSv/hr, 0.16, SLOWM, 28, uSv/hr, 0.15, SLOWt =18698
-CPS, 1, CPM, 30, uSv/hr, 0.17, SLOWM, 28, uSv/hr, 0.15, SLOWt =19696
-CPS, 2, CPM, 32, uSv/hr, 0.18, SLOWM, 28, uSv/hr, 0.15, SLOWt =20695
-CPS, 2, CPM, 34, uSv/hr, 0.19, SLOWM, 28, uSv/hr, 0.15, SLOWt =21693
-CPS, 3, CPM, 37, uSv/hr, 0.21, SLOWM, 28, uSv/hr, 0.15, SLOWt =22691
-CPS, 2, CPM, 39, uSv/hr, 0.22, SLOWM, 28, uSv/hr, 0.15, SLOWt =23690
-CPS, 14, CPM, 51, uSv/hr, 0.29, SLOW, 28, uSv/hr, 0.15, SLOWt =24689
-CPS, 36, CPM, 86, uSv/hr, 0.49, SLOW, 28, uSv/hr, 0.15, SLOWt =25688
-CPS, 86, CPM, 1692, uSv/hr, 9.64, FAST28, uSv/hr, 0.15, SLOWt =26708
-CPS, 437, CPM, 26220, uSv/hr, 149.45, INSTuSv/hr, 0.15, SLOWt =27695
-CPS, 1376, CPM, 82560, uSv/hr, 470.59, INSTSv/hr, 0.15, SLOWt =28692
-CPS, 1096, CPM, 65760, uSv/hr, 374.83, INSTSv/hr, 0.15, SLOWt =29705
-CPS, 1900, CPM, 114000, uSv/hr, 649.80, INSTv/hr, 0.15, SLOWt =30705
-CPS, 1951, CPM, 117060, uSv/hr, 667.24, INSTv/hr, 0.15, SLOWt =31704
-CPS, 2785, CPM, 167100, uSv/hr, 952.47, INSTv/hr, 0.15, SLOWt =32711
-CPS, 1395, CPM, 83700, uSv/hr, 477.09, INSTv/hr, 0.15, SLOWt =33698
-CPS, 1577, CPM, 94620, uSv/hr, 539.33, INSTv/hr, 0.15, SLOWt =34683
-CPS, 2008, CPM, 120480, uSv/hr, 686.73, INSTv/hr, 0.15, SLOWt =35692
-CPS, 1057, CPM, 63420, uSv/hr, 361.49, INSTv/hr, 0.15, SLOWt =36686
-CPS, 14, CPM, 12408, uSv/hr, 70.72, FASTSTv/hr, 0.15, SLOWt =37672
-CPS, 2, CPM, 9372, uSv/hr, 53.42, FASTTSTv/hr, 0.15, SLOWt =38669
-CPS, 0, CPM, 6312, uSv/hr, 35.97, FASTTSTv/hr, 0.15, SLOWt =39667
-CPS, 0, CPM, 3252, uSv/hr, 18.53, FASTTSTv/hr, 0.15, SLOWt =40666
-CPS, 0, CPM, 2728, uSv/hr, 15.54, SLOWTSTv/hr, 0.15, SLOWt =41664
-CPS, 0, CPM, 2728, uSv/hr, 15.54, SLOWTSTv/hr, 0.15, SLOWt =42662
-CPS, 1, CPM, 2728, uSv/hr, 15.54, SLOWTSTv/hr, 0.15, SLOWt =43661
-CPS, 0, CPM, 2728, uSv/hr, 15.54, SLOWTSTv/hr, 0.15, SLOWt =44659
-CPS, 0, CPM, 2728, uSv/hr, 15.54, SLOWTSTv/hr, 0.15, SLOWt =45658
