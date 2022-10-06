@@ -1,0 +1,57 @@
+START METING
+mightyohm.com Geiger Counter 1.00t =14606
+http://mightyohm.com/geigerCPS, 0, CPM, 1, uSv/hr, 0.00, SLOWt =15584
+CPS, 0, CPM, 1, uSv/hr, 0.00, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =16582
+CPS, 0, CPM, 1, uSv/hr, 0.00, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =17581
+CPS, 0, CPM, 1, uSv/hr, 0.00, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =18578
+CPS, 0, CPM, 1, uSv/hr, 0.00, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =19576
+CPS, 0, CPM, 1, uSv/hr, 0.00, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =20575
+CPS, 0, CPM, 1, uSv/hr, 0.00, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =21573
+CPS, 0, CPM, 1, uSv/hr, 0.00, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =22572
+CPS, 1, CPM, 2, uSv/hr, 0.01, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =23570
+CPS, 0, CPM, 2, uSv/hr, 0.01, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =24568
+CPS, 1, CPM, 3, uSv/hr, 0.01, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =25567
+CPS, 0, CPM, 3, uSv/hr, 0.01, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =26565
+CPS, 1, CPM, 4, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =27564
+CPS, 0, CPM, 4, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =28562
+CPS, 0, CPM, 4, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =29560
+CPS, 0, CPM, 4, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =30559
+CPS, 0, CPM, 4, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =31556
+CPS, 0, CPM, 4, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =32555
+CPS, 0, CPM, 4, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =33553
+CPS, 1, CPM, 5, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =34551
+CPS, 0, CPM, 5, uSv/hr, 0.02, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =35550
+CPS, 2, CPM, 7, uSv/hr, 0.03, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =36548
+CPS, 0, CPM, 7, uSv/hr, 0.03, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =37547
+CPS, 0, CPM, 7, uSv/hr, 0.03, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =38545
+CPS, 1, CPM, 8, uSv/hr, 0.04, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =39543
+CPS, 1, CPM, 9, uSv/hr, 0.05, SLOW CPM, 1, uSv/hr, 0.00, SLOWt =40542
+CPS, 1, CPM, 10, uSv/hr, 0.05, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =41541
+CPS, 0, CPM, 10, uSv/hr, 0.05, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =42540
+CPS, 0, CPM, 10, uSv/hr, 0.05, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =43538
+CPS, 2, CPM, 12, uSv/hr, 0.06, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =44535
+CPS, 0, CPM, 12, uSv/hr, 0.06, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =45534
+CPS, 0, CPM, 12, uSv/hr, 0.06, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =46532
+CPS, 0, CPM, 12, uSv/hr, 0.06, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =47531
+CPS, 1, CPM, 13, uSv/hr, 0.07, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =48529
+CPS, 4, CPM, 17, uSv/hr, 0.09, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =49527
+CPS, 9, CPM, 26, uSv/hr, 0.14, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =50526
+CPS, 7, CPM, 33, uSv/hr, 0.18, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =51524
+CPS, 1, CPM, 34, uSv/hr, 0.19, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =52523
+CPS, 8, CPM, 42, uSv/hr, 0.23, SLOWCPM, 1, uSv/hr, 0.00, SLOWt =53521
+CPS, 12, CPM, 54, uSv/hr, 0.30, SLOWPM, 1, uSv/hr, 0.00, SLOWt =54530
+CPS, 12, CPM, 66, uSv/hr, 0.37, SLOWPM, 1, uSv/hr, 0.00, SLOWt =55519
+CPS, 9, CPM, 75, uSv/hr, 0.42, SLOWPM, 1, uSv/hr, 0.00, SLOWt =56516
+CPS, 5, CPM, 80, uSv/hr, 0.45, SLOWPM, 1, uSv/hr, 0.00, SLOWt =57513
+CPS, 10, CPM, 90, uSv/hr, 0.51, SLOWPM, 1, uSv/hr, 0.00, SLOWt =58513
+CPS, 12, CPM, 102, uSv/hr, 0.58, SLOWM, 1, uSv/hr, 0.00, SLOWt =59515
+CPS, 6, CPM, 108, uSv/hr, 0.61, SLOWM, 1, uSv/hr, 0.00, SLOWt =60510
+CPS, 2, CPM, 110, uSv/hr, 0.62, SLOWM, 1, uSv/hr, 0.00, SLOWt =61508
+CPS, 1, CPM, 111, uSv/hr, 0.63, SLOWM, 1, uSv/hr, 0.00, SLOWt =62507
+CPS, 0, CPM, 111, uSv/hr, 0.63, SLOWM, 1, uSv/hr, 0.00, SLOWt =63505
+CPS, 0, CPM, 111, uSv/hr, 0.63, SLOWM, 1, uSv/hr, 0.00, SLOWt =64503
+CPS, 0, CPM, 111, uSv/hr, 0.63, SLOWM, 1, uSv/hr, 0.00, SLOWt =65502
+CPS, 1, CPM, 112, uSv/hr, 0.63, SLOWM, 1, uSv/hr, 0.00, SLOWt =66500
+CPS, 0, CPM, 112, uSv/hr, 0.63, SLOWM, 1, uSv/hr, 0.00, SLOWt =67499
+CPS, 1, CPM, 113, uSv/hr, 0.64, SLOWM, 1, uSv/hr, 0.00, SLOWt =68497
+CPS, 0, CPM, 113, uSv/hr, 0.64, SLOWM, 1, uSv/hr, 0.00, SLOWt =69495

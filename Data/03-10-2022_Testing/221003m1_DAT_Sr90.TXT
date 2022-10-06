@@ -1,0 +1,43 @@
+START METING
+CPS, 1, CPM, 23, uSv/hr, 0.13, SLOWt =4136
+CPS, 0, CPM, 22, uSv/hr, 0CPS, 0, CPM, 20, uSv/hr, 0.11, SLOWt =4615
+CPS, 0, CPM, 20, uSv/hr, 0.11, SLOWM, 20, uSv/hr, 0.11, SLOWt =5613
+CPS, 1, CPM, 20, uSv/hr, 0.11, SLOWM, 20, uSv/hr, 0.11, SLOWt =6611
+CPS, 0, CPM, 19, uSv/hr, 0.10, SLOWM, 20, uSv/hr, 0.11, SLOWt =7610
+CPS, 3, CPM, 21, uSv/hr, 0.11, SLOWM, 20, uSv/hr, 0.11, SLOWt =8608
+CPS, 0, CPM, 21, uSv/hr, 0.11, SLOWM, 20, uSv/hr, 0.11, SLOWt =9607
+CPS, 0, CPM, 21, uSv/hr, 0.11, SLOWM, 20, uSv/hr, 0.11, SLOWt =10605
+CPS, 1, CPM, 22, uSv/hr, 0.12, SLOWM, 20, uSv/hr, 0.11, SLOWt =11603
+CPS, 0, CPM, 22, uSv/hr, 0.12, SLOWM, 20, uSv/hr, 0.11, SLOWt =12602
+CPS, 1, CPM, 23, uSv/hr, 0.13, SLOWM, 20, uSv/hr, 0.11, SLOWt =13600
+CPS, 0, CPM, 22, uSv/hr, 0.12, SLOWM, 20, uSv/hr, 0.11, SLOWt =14598
+CPS, 1, CPM, 23, uSv/hr, 0.13, SLOWM, 20, uSv/hr, 0.11, SLOWt =15596
+CPS, 0, CPM, 22, uSv/hr, 0.12, SLOWM, 20, uSv/hr, 0.11, SLOWt =16594
+CPS, 0, CPM, 22, uSv/hr, 0.12, SLOWM, 20, uSv/hr, 0.11, SLOWt =17593
+CPS, 0, CPM, 21, uSv/hr, 0.11, SLOWM, 20, uSv/hr, 0.11, SLOWt =18591
+CPS, 5, CPM, 25, uSv/hr, 0.14, SLOWM, 20, uSv/hr, 0.11, SLOWt =19590
+CPS, 8, CPM, 33, uSv/hr, 0.18, SLOWM, 20, uSv/hr, 0.11, SLOWt =20588
+CPS, 36, CPM, 69, uSv/hr, 0.39, SLOW, 20, uSv/hr, 0.11, SLOWt =21591
+CPS, 65, CPM, 1368, uSv/hr, 7.79, FAST20, uSv/hr, 0.11, SLOWt =22596
+CPS, 138, CPM, 3024, uSv/hr, 17.23, FAST, uSv/hr, 0.11, SLOWt =23599
+CPS, 63, CPM, 3720, uSv/hr, 21.20, FAST, uSv/hr, 0.11, SLOWt =24590
+CPS, 111, CPM, 4956, uSv/hr, 28.24, FAST, uSv/hr, 0.11, SLOWt =25601
+CPS, 119, CPM, 5952, uSv/hr, 33.92, FAST, uSv/hr, 0.11, SLOWt =26587
+CPS, 74, CPM, 6060, uSv/hr, 34.54, FAST, uSv/hr, 0.11, SLOWt =27581
+CPS, 109, CPM, 5712, uSv/hr, 32.55, FAST, uSv/hr, 0.11, SLOWt =28590
+CPS, 93, CPM, 6072, uSv/hr, 34.61, FAST, uSv/hr, 0.11, SLOWt =29578
+CPS, 167, CPM, 6744, uSv/hr, 38.44, FAST, uSv/hr, 0.11, SLOWt =30587
+CPS, 124, CPM, 6804, uSv/hr, 38.78, FAST, uSv/hr, 0.11, SLOWt =31595
+CPS, 97, CPM, 7080, uSv/hr, 40.35, FAST, uSv/hr, 0.11, SLOWt =32573
+CPS, 0, CPM, 5772, uSv/hr, 32.90, FAST, uSv/hr, 0.11, SLOWt =33570
+CPS, 1, CPM, 4668, uSv/hr, 26.60, FAST, uSv/hr, 0.11, SLOWt =34569
+CPS, 1, CPM, 2676, uSv/hr, 15.25, FAST, uSv/hr, 0.11, SLOWt =35567
+CPS, 2, CPM, 1212, uSv/hr, 6.90, FAST, uSv/hr, 0.11, SLOWt =36564
+CPS, 0, CPM, 1226, uSv/hr, 6.98, SLOW, uSv/hr, 0.11, SLOWt =37562
+CPS, 2, CPM, 1228, uSv/hr, 6.99, SLOW, uSv/hr, 0.11, SLOWt =38560
+CPS, 2, CPM, 1229, uSv/hr, 7.00, SLOW, uSv/hr, 0.11, SLOWt =39559
+CPS, 0, CPM, 1229, uSv/hr, 7.00, SLOW, uSv/hr, 0.11, SLOWt =40557
+CPS, 0, CPM, 1228, uSv/hr, 6.99, SLOW, uSv/hr, 0.11, SLOWt =41555
+CPS, 0, CPM, 1228, uSv/hr, 6.99, SLOW, uSv/hr, 0.11, SLOWt =42554
+CPS, 0, CPM, 1227, uSv/hr, 6.99, SLOW, uSv/hr, 0.11, SLOWt =43552
+CPS, 0, CPM, 1227, uSv/hr, 6.99, SLOW, uSv/hr, 0.11, SLOWt =44551
